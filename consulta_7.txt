@@ -1,0 +1,1742 @@
+[
+    {
+        "name": {
+            "common": "Belarus",
+            "official": "Republic of Belarus",
+            "nativeName": {
+                "bel": {
+                    "official": "Рэспубліка Беларусь",
+                    "common": "Белару́сь"
+                },
+                "rus": {
+                    "official": "Республика Беларусь",
+                    "common": "Беларусь"
+                }
+            }
+        },
+        "tld": [
+            ".by"
+        ],
+        "cca2": "BY",
+        "ccn3": "112",
+        "cca3": "BLR",
+        "cioc": "BLR",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "BYN": {
+                "name": "Belarusian ruble",
+                "symbol": "Br"
+            }
+        },
+        "idd": {
+            "root": "+3",
+            "suffixes": [
+                "75"
+            ]
+        },
+        "capital": [
+            "Minsk"
+        ],
+        "altSpellings": [
+            "BY",
+            "Bielaruś",
+            "Republic of Belarus",
+            "Белоруссия",
+            "Республика Белоруссия"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "bel": "Belarusian",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية بيلاروسيا",
+                "common": "بيلاروسيا"
+            },
+            "bre": {
+                "official": "Republik Belarus",
+                "common": "Belarus"
+            },
+            "ces": {
+                "official": "Běloruská republika",
+                "common": "Bělorusko"
+            },
+            "cym": {
+                "official": "Gweriniaeth Belarws",
+                "common": "Belarws"
+            },
+            "deu": {
+                "official": "Republik Belarus",
+                "common": "Weißrussland"
+            },
+            "est": {
+                "official": "Valgevene Vabariik",
+                "common": "Valgevene"
+            },
+            "fin": {
+                "official": "Valko-Venäjän tasavalta",
+                "common": "Valko-Venäjä"
+            },
+            "fra": {
+                "official": "République de Biélorussie",
+                "common": "Biélorussie"
+            },
+            "hrv": {
+                "official": "Republika Bjelorusija",
+                "common": "Bjelorusija"
+            },
+            "hun": {
+                "official": "Fehérorosz Köztársaság",
+                "common": "Fehéroroszország"
+            },
+            "ita": {
+                "official": "Repubblica di Belarus",
+                "common": "Bielorussia"
+            },
+            "jpn": {
+                "official": "ベラルーシ共和国",
+                "common": "ベラルーシ"
+            },
+            "kor": {
+                "official": "벨라루스 공화국",
+                "common": "벨라루스"
+            },
+            "nld": {
+                "official": "Republiek Belarus",
+                "common": "Wit-Rusland"
+            },
+            "per": {
+                "official": "جمهوری بلاروس",
+                "common": "بلاروس"
+            },
+            "pol": {
+                "official": "Republika Białorusi",
+                "common": "Białoruś"
+            },
+            "por": {
+                "official": "República da Bielorrússia",
+                "common": "Bielorússia"
+            },
+            "rus": {
+                "official": "Республика Беларусь",
+                "common": "Беларусь"
+            },
+            "slk": {
+                "official": "Bieloruská republika",
+                "common": "Bielorusko"
+            },
+            "spa": {
+                "official": "República de Belarús",
+                "common": "Bielorrusia"
+            },
+            "swe": {
+                "official": "Republiken Vitryssland",
+                "common": "Belarus"
+            },
+            "tur": {
+                "official": "Belarus Cumhuriyeti",
+                "common": "Belarus"
+            },
+            "urd": {
+                "official": "جمہوریہ بیلاروس",
+                "common": "بیلاروس"
+            },
+            "zho": {
+                "official": "白俄罗斯共和国",
+                "common": "白俄罗斯"
+            }
+        },
+        "latlng": [
+            53.0,
+            28.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "LVA",
+            "LTU",
+            "POL",
+            "RUS",
+            "UKR"
+        ],
+        "area": 207600.0,
+        "demonyms": {
+            "eng": {
+                "f": "Belarusian",
+                "m": "Belarusian"
+            },
+            "fra": {
+                "f": "Biélorusse",
+                "m": "Biélorusse"
+            }
+        },
+        "flag": "🇧🇾",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/PJUDU3EBPSszCQcu6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/59065"
+        },
+        "population": 9398861,
+        "gini": {
+            "2019": 25.3
+        },
+        "fifa": "BLR",
+        "car": {
+            "signs": [
+                "BY"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/by.png",
+            "svg": "https://flagcdn.com/by.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/by.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/by.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                53.9,
+                27.57
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Kyrgyzstan",
+            "official": "Kyrgyz Republic",
+            "nativeName": {
+                "kir": {
+                    "official": "Кыргыз Республикасы",
+                    "common": "Кыргызстан"
+                },
+                "rus": {
+                    "official": "Кыргызская Республика",
+                    "common": "Киргизия"
+                }
+            }
+        },
+        "tld": [
+            ".kg"
+        ],
+        "cca2": "KG",
+        "ccn3": "417",
+        "cca3": "KGZ",
+        "cioc": "KGZ",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "KGS": {
+                "name": "Kyrgyzstani som",
+                "symbol": "с"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "96"
+            ]
+        },
+        "capital": [
+            "Bishkek"
+        ],
+        "altSpellings": [
+            "KG",
+            "Киргизия",
+            "Kyrgyz Republic",
+            "Кыргыз Республикасы",
+            "Kyrgyz Respublikasy"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kir": "Kyrgyz",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": {
+                "official": "الجمهورية القيرغيزية",
+                "common": "قيرغيزستان"
+            },
+            "bre": {
+                "official": "Republik Kirgiz",
+                "common": "Kirgizstan"
+            },
+            "ces": {
+                "official": "Kyrgyzská republika",
+                "common": "Kyrgyzstán"
+            },
+            "cym": {
+                "official": "Kyrgyz Republic",
+                "common": "Kyrgyzstan"
+            },
+            "deu": {
+                "official": "Kirgisische Republik",
+                "common": "Kirgisistan"
+            },
+            "est": {
+                "official": "Kirgiisi Vabariik",
+                "common": "Kõrgõzstan"
+            },
+            "fin": {
+                "official": "Kirgisian tasavalta",
+                "common": "Kirgisia"
+            },
+            "fra": {
+                "official": "République kirghize",
+                "common": "Kirghizistan"
+            },
+            "hrv": {
+                "official": "Kirgistanu",
+                "common": "Kirgistan"
+            },
+            "hun": {
+                "official": "Kirgiz Köztársaság",
+                "common": "Kirgizisztán"
+            },
+            "ita": {
+                "official": "Kirghizistan",
+                "common": "Kirghizistan"
+            },
+            "jpn": {
+                "official": "キルギス共和国",
+                "common": "キルギス"
+            },
+            "kor": {
+                "official": "키르기스 공화국",
+                "common": "키르기스스탄"
+            },
+            "nld": {
+                "official": "Kirgizische Republiek",
+                "common": "Kirgizië"
+            },
+            "per": {
+                "official": "جمهوری قِرقیزستان",
+                "common": "قرقیزستان"
+            },
+            "pol": {
+                "official": "Republika Kirgiska",
+                "common": "Kirgistan"
+            },
+            "por": {
+                "official": "República do Quirguistão",
+                "common": "Quirguistão"
+            },
+            "rus": {
+                "official": "Кыргызская Республика",
+                "common": "Киргизия"
+            },
+            "slk": {
+                "official": "Kirgizská republika",
+                "common": "Kirgizsko"
+            },
+            "spa": {
+                "official": "República Kirguisa",
+                "common": "Kirguizistán"
+            },
+            "swe": {
+                "official": "Republiken Kirgizistan",
+                "common": "Kirgizistan"
+            },
+            "tur": {
+                "official": "Kırgızistan Cumhuriyeti",
+                "common": "Kırgızistan"
+            },
+            "urd": {
+                "official": "جمہوریہ کرغیزستان",
+                "common": "کرغیزستان"
+            },
+            "zho": {
+                "official": "吉尔吉斯斯坦共和国",
+                "common": "吉尔吉斯斯坦"
+            }
+        },
+        "latlng": [
+            41.0,
+            75.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "CHN",
+            "KAZ",
+            "TJK",
+            "UZB"
+        ],
+        "area": 199951.0,
+        "demonyms": {
+            "eng": {
+                "f": "Kirghiz",
+                "m": "Kirghiz"
+            },
+            "fra": {
+                "f": "Kirghize",
+                "m": "Kirghize"
+            }
+        },
+        "flag": "🇰🇬",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/SKG8BSMMQVvxkRkB7",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/178009"
+        },
+        "population": 6591600,
+        "gini": {
+            "2019": 29.7
+        },
+        "fifa": "KGZ",
+        "car": {
+            "signs": [
+                "KS"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/kg.png",
+            "svg": "https://flagcdn.com/kg.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/kg.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/kg.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                42.87,
+                74.6
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Kazakhstan",
+            "official": "Republic of Kazakhstan",
+            "nativeName": {
+                "kaz": {
+                    "official": "Қазақстан Республикасы",
+                    "common": "Қазақстан"
+                },
+                "rus": {
+                    "official": "Республика Казахстан",
+                    "common": "Казахстан"
+                }
+            }
+        },
+        "tld": [
+            ".kz",
+            ".қаз"
+        ],
+        "cca2": "KZ",
+        "ccn3": "398",
+        "cca3": "KAZ",
+        "cioc": "KAZ",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "KZT": {
+                "name": "Kazakhstani tenge",
+                "symbol": "₸"
+            }
+        },
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "6",
+                "7"
+            ]
+        },
+        "capital": [
+            "Nur-Sultan"
+        ],
+        "altSpellings": [
+            "KZ",
+            "Qazaqstan",
+            "Казахстан",
+            "Republic of Kazakhstan",
+            "Қазақстан Республикасы",
+            "Qazaqstan Respublïkası",
+            "Республика Казахстан",
+            "Respublika Kazakhstan"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "kaz": "Kazakh",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية كازاخستان",
+                "common": "كازاخستان"
+            },
+            "bre": {
+                "official": "Republik Kazakstan",
+                "common": "Kazakstan"
+            },
+            "ces": {
+                "official": "Republika Kazachstán",
+                "common": "Kazachstán"
+            },
+            "cym": {
+                "official": "Republic of Kazakhstan",
+                "common": "Kazakhstan"
+            },
+            "deu": {
+                "official": "Republik Kasachstan",
+                "common": "Kasachstan"
+            },
+            "est": {
+                "official": "Kasahstani Vabariik",
+                "common": "Kasahstan"
+            },
+            "fin": {
+                "official": "Kazakstanin tasavalta",
+                "common": "Kazakstan"
+            },
+            "fra": {
+                "official": "République du Kazakhstan",
+                "common": "Kazakhstan"
+            },
+            "hrv": {
+                "official": "Republika Kazahstan",
+                "common": "Kazahstan"
+            },
+            "hun": {
+                "official": "Kazah Köztársaság",
+                "common": "Kazahsztán"
+            },
+            "ita": {
+                "official": "Repubblica del Kazakhstan",
+                "common": "Kazakistan"
+            },
+            "jpn": {
+                "official": "カザフスタン共和国",
+                "common": "カザフスタン"
+            },
+            "kor": {
+                "official": "카자흐스탄 공화국",
+                "common": "카자흐스탄"
+            },
+            "nld": {
+                "official": "Republiek Kazachstan",
+                "common": "Kazachstan"
+            },
+            "per": {
+                "official": "جمهوری قزاقستان",
+                "common": "قزاقستان"
+            },
+            "pol": {
+                "official": "Republika Kazachstanu",
+                "common": "Kazachstan"
+            },
+            "por": {
+                "official": "República do Cazaquistão",
+                "common": "Cazaquistão"
+            },
+            "rus": {
+                "official": "Республика Казахстан",
+                "common": "Казахстан"
+            },
+            "slk": {
+                "official": "Kazašská republika",
+                "common": "Kazachstan"
+            },
+            "spa": {
+                "official": "República de Kazajstán",
+                "common": "Kazajistán"
+            },
+            "swe": {
+                "official": "Republiken Kazakstan",
+                "common": "Kazakstan"
+            },
+            "tur": {
+                "official": "Kazakistan Cumhuriyeti",
+                "common": "Kazakistan"
+            },
+            "urd": {
+                "official": "جمہوریہ قازقستان",
+                "common": "قازقستان"
+            },
+            "zho": {
+                "official": "哈萨克斯坦共和国",
+                "common": "哈萨克斯坦"
+            }
+        },
+        "latlng": [
+            48.0,
+            68.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "CHN",
+            "KGZ",
+            "RUS",
+            "TKM",
+            "UZB"
+        ],
+        "area": 2724900.0,
+        "demonyms": {
+            "eng": {
+                "f": "Kazakhstani",
+                "m": "Kazakhstani"
+            },
+            "fra": {
+                "f": "Kazakhstanaise",
+                "m": "Kazakhstanais"
+            }
+        },
+        "flag": "🇰🇿",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8VohJGu7ShuzZYyeA",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214665"
+        },
+        "population": 18754440,
+        "gini": {
+            "2018": 27.8
+        },
+        "fifa": "KAZ",
+        "car": {
+            "signs": [
+                "KZ"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/kz.png",
+            "svg": "https://flagcdn.com/kz.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/kz.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/kz.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                51.16,
+                71.45
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Tajikistan",
+            "official": "Republic of Tajikistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Таджикистан",
+                    "common": "Таджикистан"
+                },
+                "tgk": {
+                    "official": "Ҷумҳурии Тоҷикистон",
+                    "common": "Тоҷикистон"
+                }
+            }
+        },
+        "tld": [
+            ".tj"
+        ],
+        "cca2": "TJ",
+        "ccn3": "762",
+        "cca3": "TJK",
+        "cioc": "TJK",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "TJS": {
+                "name": "Tajikistani somoni",
+                "symbol": "ЅМ"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "92"
+            ]
+        },
+        "capital": [
+            "Dushanbe"
+        ],
+        "altSpellings": [
+            "TJ",
+            "Toçikiston",
+            "Republic of Tajikistan",
+            "Ҷумҳурии Тоҷикистон",
+            "Çumhuriyi Toçikiston"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tgk": "Tajik"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية طاجيكستان",
+                "common": "طاجيكستان"
+            },
+            "bre": {
+                "official": "Republik Tadjikistan",
+                "common": "Tadjikistan"
+            },
+            "ces": {
+                "official": "Republika Tádžikistán",
+                "common": "Tádžikistán"
+            },
+            "cym": {
+                "official": "Republic of Tajikistan",
+                "common": "Tajikistan"
+            },
+            "deu": {
+                "official": "Republik Tadschikistan",
+                "common": "Tadschikistan"
+            },
+            "est": {
+                "official": "Tadžikistani Vabariik",
+                "common": "Tadžikistan"
+            },
+            "fin": {
+                "official": "Tadžikistanin tasavalta",
+                "common": "Tadžikistan"
+            },
+            "fra": {
+                "official": "République du Tadjikistan",
+                "common": "Tadjikistan"
+            },
+            "hrv": {
+                "official": "Republika Tadžikistan",
+                "common": "Tađikistan"
+            },
+            "hun": {
+                "official": "Tádzsik Köztársaság",
+                "common": "Tádzsikisztán"
+            },
+            "ita": {
+                "official": "Repubblica del Tajikistan",
+                "common": "Tagikistan"
+            },
+            "jpn": {
+                "official": "タジキスタン共和国",
+                "common": "タジキスタン"
+            },
+            "kor": {
+                "official": "타지키스탄 공화국",
+                "common": "타지키스탄"
+            },
+            "nld": {
+                "official": "Tadzjikistan",
+                "common": "Tadzjikistan"
+            },
+            "per": {
+                "official": "جمهوری تاجیکستان",
+                "common": "تاجیکِستان"
+            },
+            "pol": {
+                "official": "Republika Tadżykistanu",
+                "common": "Tadżykistan"
+            },
+            "por": {
+                "official": "República do Tajiquistão",
+                "common": "Tajiquistão"
+            },
+            "rus": {
+                "official": "Республика Таджикистан",
+                "common": "Таджикистан"
+            },
+            "slk": {
+                "official": "Taǆická republika",
+                "common": "Taǆikistan"
+            },
+            "spa": {
+                "official": "República de Tayikistán",
+                "common": "Tayikistán"
+            },
+            "swe": {
+                "official": "Republiken Tadzjikistan",
+                "common": "Tadzjikistan"
+            },
+            "tur": {
+                "official": "Tacikistan Cumhuriyeti",
+                "common": "Tacikistan"
+            },
+            "urd": {
+                "official": "جمہوریہ تاجکستان",
+                "common": "تاجکستان"
+            },
+            "zho": {
+                "official": "塔吉克斯坦共和国",
+                "common": "塔吉克斯坦"
+            }
+        },
+        "latlng": [
+            39.0,
+            71.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "AFG",
+            "CHN",
+            "KGZ",
+            "UZB"
+        ],
+        "area": 143100.0,
+        "demonyms": {
+            "eng": {
+                "f": "Tadzhik",
+                "m": "Tadzhik"
+            },
+            "fra": {
+                "f": "Tadjike",
+                "m": "Tadjike"
+            }
+        },
+        "flag": "🇹🇯",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/8rQgW88jEXijhVb58",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/214626"
+        },
+        "population": 9537642,
+        "gini": {
+            "2015": 34.0
+        },
+        "fifa": "TJK",
+        "car": {
+            "signs": [
+                "TJ"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/tj.png",
+            "svg": "https://flagcdn.com/tj.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/tj.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/tj.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                38.55,
+                68.77
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Azerbaijan",
+            "official": "Republic of Azerbaijan",
+            "nativeName": {
+                "aze": {
+                    "official": "Azərbaycan Respublikası",
+                    "common": "Azərbaycan"
+                },
+                "rus": {
+                    "official": "Азербайджанская Республика",
+                    "common": "Азербайджан"
+                }
+            }
+        },
+        "tld": [
+            ".az"
+        ],
+        "cca2": "AZ",
+        "ccn3": "031",
+        "cca3": "AZE",
+        "cioc": "AZE",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "AZN": {
+                "name": "Azerbaijani manat",
+                "symbol": "₼"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "94"
+            ]
+        },
+        "capital": [
+            "Baku"
+        ],
+        "altSpellings": [
+            "AZ",
+            "Republic of Azerbaijan",
+            "Azərbaycan Respublikası"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia",
+        "languages": {
+            "aze": "Azerbaijani",
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية أذربيجان",
+                "common": "أذربيجان"
+            },
+            "bre": {
+                "official": "Republik Azerbaidjan",
+                "common": "Azerbaidjan"
+            },
+            "ces": {
+                "official": "Ázerbájdžánská republika",
+                "common": "Ázerbájdžán"
+            },
+            "cym": {
+                "official": "Gweriniaeth Aserbaijan",
+                "common": "Aserbaijan"
+            },
+            "deu": {
+                "official": "Republik Aserbaidschan",
+                "common": "Aserbaidschan"
+            },
+            "est": {
+                "official": "Aserbaidžaani Vabariik",
+                "common": "Aserbaidžaan"
+            },
+            "fin": {
+                "official": "Azerbaidzanin tasavalta",
+                "common": "Azerbaidzan"
+            },
+            "fra": {
+                "official": "République d'Azerbaïdjan",
+                "common": "Azerbaïdjan"
+            },
+            "hrv": {
+                "official": "Republika Azerbajdžan",
+                "common": "Azerbajdžan"
+            },
+            "hun": {
+                "official": "Azerbajdzsán",
+                "common": "Azerbajdzsán"
+            },
+            "ita": {
+                "official": "Repubblica dell'Azerbaigian",
+                "common": "Azerbaijan"
+            },
+            "jpn": {
+                "official": "アゼルバイジャン共和国",
+                "common": "アゼルバイジャン"
+            },
+            "kor": {
+                "official": "아제르바이잔 공화국",
+                "common": "아제르바이잔"
+            },
+            "nld": {
+                "official": "Republiek Azerbeidzjan",
+                "common": "Azerbeidzjan"
+            },
+            "per": {
+                "official": "جمهوری آذربایجان",
+                "common": "جمهوری آذربایجان"
+            },
+            "pol": {
+                "official": "Republika Azerbejdżanu",
+                "common": "Azerbejdżan"
+            },
+            "por": {
+                "official": "República do Azerbaijão",
+                "common": "Azerbeijão"
+            },
+            "rus": {
+                "official": "Азербайджанская Республика",
+                "common": "Азербайджан"
+            },
+            "slk": {
+                "official": "Azerbajǆanská republika",
+                "common": "AzerbajǇan"
+            },
+            "spa": {
+                "official": "República de Azerbaiyán",
+                "common": "Azerbaiyán"
+            },
+            "swe": {
+                "official": "Republiken Azerbajdzjan",
+                "common": "Azerbajdzjan"
+            },
+            "tur": {
+                "official": "Azerbaycan Cumhuriyeti",
+                "common": "Azerbaycan"
+            },
+            "urd": {
+                "official": "جمہوریہ آذربائیجان",
+                "common": "آذربائیجان"
+            },
+            "zho": {
+                "official": "阿塞拜疆共和国",
+                "common": "阿塞拜疆"
+            }
+        },
+        "latlng": [
+            40.5,
+            47.5
+        ],
+        "landlocked": true,
+        "borders": [
+            "ARM",
+            "GEO",
+            "IRN",
+            "RUS",
+            "TUR"
+        ],
+        "area": 86600.0,
+        "demonyms": {
+            "eng": {
+                "f": "Azerbaijani",
+                "m": "Azerbaijani"
+            },
+            "fra": {
+                "f": "Azerbaïdjanaise",
+                "m": "Azerbaïdjanais"
+            }
+        },
+        "flag": "🇦🇿",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/az3Zz7ar2aoB9AUc6",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/364110"
+        },
+        "population": 10110116,
+        "gini": {
+            "2005": 26.6
+        },
+        "fifa": "AZE",
+        "car": {
+            "signs": [
+                "AZ"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/az.png",
+            "svg": "https://flagcdn.com/az.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/az.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/az.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                40.38,
+                49.87
+            ]
+        },
+        "postalCode": {
+            "format": "AZ ####",
+            "regex": "^(?:AZ)*(\\d{4})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Russia",
+            "official": "Russian Federation",
+            "nativeName": {
+                "rus": {
+                    "official": "Российская Федерация",
+                    "common": "Россия"
+                }
+            }
+        },
+        "tld": [
+            ".ru",
+            ".su",
+            ".рф"
+        ],
+        "cca2": "RU",
+        "ccn3": "643",
+        "cca3": "RUS",
+        "cioc": "RUS",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "RUB": {
+                "name": "Russian ruble",
+                "symbol": "₽"
+            }
+        },
+        "idd": {
+            "root": "+7",
+            "suffixes": [
+                "3",
+                "4",
+                "5",
+                "8",
+                "9"
+            ]
+        },
+        "capital": [
+            "Moscow"
+        ],
+        "altSpellings": [
+            "RU",
+            "Russian Federation",
+            "Российская Федерация"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe",
+        "languages": {
+            "rus": "Russian"
+        },
+        "translations": {
+            "ara": {
+                "official": "روسيا الاتحادية",
+                "common": "روسيا"
+            },
+            "bre": {
+                "official": "Kevread Rusia",
+                "common": "Rusia"
+            },
+            "ces": {
+                "official": "Ruská federace",
+                "common": "Rusko"
+            },
+            "cym": {
+                "official": "Russian Federation",
+                "common": "Russia"
+            },
+            "deu": {
+                "official": "Russische Föderation",
+                "common": "Russland"
+            },
+            "est": {
+                "official": "Venemaa Föderatsioon",
+                "common": "Venemaa"
+            },
+            "fin": {
+                "official": "Venäjän federaatio",
+                "common": "Venäjä"
+            },
+            "fra": {
+                "official": "Fédération de Russie",
+                "common": "Russie"
+            },
+            "hrv": {
+                "official": "Ruska Federacija",
+                "common": "Rusija"
+            },
+            "hun": {
+                "official": "Oroszországi Föderáció",
+                "common": "Oroszország"
+            },
+            "ita": {
+                "official": "Federazione russa",
+                "common": "Russia"
+            },
+            "jpn": {
+                "official": "ロシア連邦",
+                "common": "ロシア連邦"
+            },
+            "kor": {
+                "official": "러시아 연방",
+                "common": "러시아"
+            },
+            "nld": {
+                "official": "Russische Federatie",
+                "common": "Rusland"
+            },
+            "per": {
+                "official": "فدراسیون روسیه",
+                "common": "روسیه"
+            },
+            "pol": {
+                "official": "Federacja Rosyjska",
+                "common": "Rosja"
+            },
+            "por": {
+                "official": "Federação Russa",
+                "common": "Rússia"
+            },
+            "rus": {
+                "official": "Российская Федерация",
+                "common": "Россия"
+            },
+            "slk": {
+                "official": "Ruská federácia",
+                "common": "Rusko"
+            },
+            "spa": {
+                "official": "Federación de Rusia",
+                "common": "Rusia"
+            },
+            "swe": {
+                "official": "Ryska federationen",
+                "common": "Ryssland"
+            },
+            "tur": {
+                "official": "Rusya Federasyonu",
+                "common": "Rusya"
+            },
+            "urd": {
+                "official": "روسی وفاق",
+                "common": "روس"
+            },
+            "zho": {
+                "official": "俄罗斯联邦",
+                "common": "俄罗斯"
+            }
+        },
+        "latlng": [
+            60.0,
+            100.0
+        ],
+        "landlocked": false,
+        "borders": [
+            "AZE",
+            "BLR",
+            "CHN",
+            "EST",
+            "FIN",
+            "GEO",
+            "KAZ",
+            "PRK",
+            "LVA",
+            "LTU",
+            "MNG",
+            "NOR",
+            "POL",
+            "UKR"
+        ],
+        "area": 1.7098242E7,
+        "demonyms": {
+            "eng": {
+                "f": "Russian",
+                "m": "Russian"
+            },
+            "fra": {
+                "f": "Russe",
+                "m": "Russe"
+            }
+        },
+        "flag": "🇷🇺",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/4F4PpDhGJgVvLby57",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/60189#map=3/65.15/105.29"
+        },
+        "population": 144104080,
+        "gini": {
+            "2018": 37.5
+        },
+        "fifa": "RUS",
+        "car": {
+            "signs": [
+                "RUS"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "continents": [
+            "Europe"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/ru.png",
+            "svg": "https://flagcdn.com/ru.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/ru.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/ru.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                55.75,
+                37.6
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Turkmenistan",
+            "official": "Turkmenistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Туркменистан",
+                    "common": "Туркмения"
+                },
+                "tuk": {
+                    "official": "Türkmenistan",
+                    "common": "Türkmenistan"
+                }
+            }
+        },
+        "tld": [
+            ".tm"
+        ],
+        "cca2": "TM",
+        "ccn3": "795",
+        "cca3": "TKM",
+        "cioc": "TKM",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "TMT": {
+                "name": "Turkmenistan manat",
+                "symbol": "m"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "93"
+            ]
+        },
+        "capital": [
+            "Ashgabat"
+        ],
+        "altSpellings": [
+            "TM"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "tuk": "Turkmen"
+        },
+        "translations": {
+            "ara": {
+                "official": "تركمانستان",
+                "common": "تركمانستان"
+            },
+            "bre": {
+                "official": "Republik Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "ces": {
+                "official": "Turkmenistán",
+                "common": "Turkmenistán"
+            },
+            "cym": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "deu": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "est": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            },
+            "fin": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "fra": {
+                "official": "Turkménistan",
+                "common": "Turkménistan"
+            },
+            "hrv": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "hun": {
+                "official": "Türkmén Köztársaság",
+                "common": "Türkmenisztán"
+            },
+            "ita": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "jpn": {
+                "official": "トルクメニスタン",
+                "common": "トルクメニスタン"
+            },
+            "kor": {
+                "official": "투르크메니스탄",
+                "common": "투르크메니스탄"
+            },
+            "nld": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "per": {
+                "official": "جمهوری خلق ترکمنستان",
+                "common": "ترکمنستان"
+            },
+            "pol": {
+                "official": "Republika Turkmenistanu",
+                "common": "Turkmenistan"
+            },
+            "por": {
+                "official": "Turcomenistão",
+                "common": "Turquemenistão"
+            },
+            "rus": {
+                "official": "Туркменистан",
+                "common": "Туркмения"
+            },
+            "slk": {
+                "official": "Turkménsko",
+                "common": "Turkménsko"
+            },
+            "spa": {
+                "official": "Turkmenistán",
+                "common": "Turkmenistán"
+            },
+            "swe": {
+                "official": "Turkmenistan",
+                "common": "Turkmenistan"
+            },
+            "tur": {
+                "official": "Türkmenistan",
+                "common": "Türkmenistan"
+            },
+            "urd": {
+                "official": "ترکمانستان",
+                "common": "ترکمانستان"
+            },
+            "zho": {
+                "official": "土库曼斯坦",
+                "common": "土库曼斯坦"
+            }
+        },
+        "latlng": [
+            40.0,
+            60.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "AFG",
+            "IRN",
+            "KAZ",
+            "UZB"
+        ],
+        "area": 488100.0,
+        "demonyms": {
+            "eng": {
+                "f": "Turkmen",
+                "m": "Turkmen"
+            },
+            "fra": {
+                "f": "Turkmène",
+                "m": "Turkmène"
+            }
+        },
+        "flag": "🇹🇲",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/cgfUcaQHSWKuqeKk9",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/223026"
+        },
+        "population": 6031187,
+        "gini": {
+            "1998": 40.8
+        },
+        "fifa": "TKM",
+        "car": {
+            "signs": [
+                "TM"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/tm.png",
+            "svg": "https://flagcdn.com/tm.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/tm.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/tm.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                37.95,
+                58.38
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    },
+    {
+        "name": {
+            "common": "Uzbekistan",
+            "official": "Republic of Uzbekistan",
+            "nativeName": {
+                "rus": {
+                    "official": "Республика Узбекистан",
+                    "common": "Узбекистан"
+                },
+                "uzb": {
+                    "official": "O'zbekiston Respublikasi",
+                    "common": "O‘zbekiston"
+                }
+            }
+        },
+        "tld": [
+            ".uz"
+        ],
+        "cca2": "UZ",
+        "ccn3": "860",
+        "cca3": "UZB",
+        "cioc": "UZB",
+        "independent": true,
+        "status": "officially-assigned",
+        "unMember": true,
+        "currencies": {
+            "UZS": {
+                "name": "Uzbekistani soʻm",
+                "symbol": "so'm"
+            }
+        },
+        "idd": {
+            "root": "+9",
+            "suffixes": [
+                "98"
+            ]
+        },
+        "capital": [
+            "Tashkent"
+        ],
+        "altSpellings": [
+            "UZ",
+            "Republic of Uzbekistan",
+            "O‘zbekiston Respublikasi",
+            "Ўзбекистон Республикаси"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia",
+        "languages": {
+            "rus": "Russian",
+            "uzb": "Uzbek"
+        },
+        "translations": {
+            "ara": {
+                "official": "جمهورية أوزباكستان",
+                "common": "أوزباكستان"
+            },
+            "bre": {
+                "official": "Republik Ouzbekistan",
+                "common": "Ouzbekistan"
+            },
+            "ces": {
+                "official": "Republika Uzbekistán",
+                "common": "Uzbekistán"
+            },
+            "cym": {
+                "official": "Republic of Uzbekistan",
+                "common": "Uzbekistan"
+            },
+            "deu": {
+                "official": "Republik Usbekistan",
+                "common": "Usbekistan"
+            },
+            "est": {
+                "official": "Usbekistani Vabariik",
+                "common": "Usbekistan"
+            },
+            "fin": {
+                "official": "Uzbekistanin tasavalta",
+                "common": "Uzbekistan"
+            },
+            "fra": {
+                "official": "République d'Ouzbékistan",
+                "common": "Ouzbékistan"
+            },
+            "hrv": {
+                "official": "Republika Uzbekistan",
+                "common": "Uzbekistan"
+            },
+            "hun": {
+                "official": "Üzbég Köztársaság",
+                "common": "Üzbegisztán"
+            },
+            "ita": {
+                "official": "Repubblica di Uzbekistan",
+                "common": "Uzbekistan"
+            },
+            "jpn": {
+                "official": "ウズベキスタン共和国",
+                "common": "ウズベキスタン"
+            },
+            "kor": {
+                "official": "우즈베키스탄 공화국",
+                "common": "우즈베키스탄"
+            },
+            "nld": {
+                "official": "Republiek Oezbekistan",
+                "common": "Oezbekistan"
+            },
+            "per": {
+                "official": "جمهوری ازبکستان",
+                "common": "ازبکستان"
+            },
+            "pol": {
+                "official": "Republika Uzbekistanu",
+                "common": "Uzbekistan"
+            },
+            "por": {
+                "official": "República do Usbequistão",
+                "common": "Uzbequistão"
+            },
+            "rus": {
+                "official": "Республика Узбекистан",
+                "common": "Узбекистан"
+            },
+            "slk": {
+                "official": "Uzbecká republika",
+                "common": "Uzbekistan"
+            },
+            "spa": {
+                "official": "República de Uzbekistán",
+                "common": "Uzbekistán"
+            },
+            "swe": {
+                "official": "Republiken Uzbekistan",
+                "common": "Uzbekistan"
+            },
+            "tur": {
+                "official": "Özbekistan Cumhuriyeti",
+                "common": "Özbekistan"
+            },
+            "urd": {
+                "official": "جمہوریہ ازبکستان",
+                "common": "ازبکستان"
+            },
+            "zho": {
+                "official": "乌兹别克斯坦共和国",
+                "common": "乌兹别克斯坦"
+            }
+        },
+        "latlng": [
+            41.0,
+            64.0
+        ],
+        "landlocked": true,
+        "borders": [
+            "AFG",
+            "KAZ",
+            "KGZ",
+            "TJK",
+            "TKM"
+        ],
+        "area": 447400.0,
+        "demonyms": {
+            "eng": {
+                "f": "Uzbekistani",
+                "m": "Uzbekistani"
+            },
+            "fra": {
+                "f": "Ouzbèke",
+                "m": "Ouzbèke"
+            }
+        },
+        "flag": "🇺🇿",
+        "maps": {
+            "googleMaps": "https://goo.gl/maps/AJpo6MjMx23qSWCz8",
+            "openStreetMaps": "https://www.openstreetmap.org/relation/196240"
+        },
+        "population": 34232050,
+        "gini": {
+            "2003": 35.3
+        },
+        "fifa": "UZB",
+        "car": {
+            "signs": [
+                "UZ"
+            ],
+            "side": "right"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "continents": [
+            "Asia"
+        ],
+        "flags": {
+            "png": "https://flagcdn.com/w320/uz.png",
+            "svg": "https://flagcdn.com/uz.svg"
+        },
+        "coatOfArms": {
+            "png": "https://mainfacts.com/media/images/coats_of_arms/uz.png",
+            "svg": "https://mainfacts.com/media/images/coats_of_arms/uz.svg"
+        },
+        "startOfWeek": "monday",
+        "capitalInfo": {
+            "latlng": [
+                41.32,
+                69.25
+            ]
+        },
+        "postalCode": {
+            "format": "######",
+            "regex": "^(\\d{6})$"
+        }
+    }
+]

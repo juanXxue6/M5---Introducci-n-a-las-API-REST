@@ -1,0 +1,593 @@
+[
+    {
+        "name": "Albania",
+        "topLevelDomain": [
+            ".al"
+        ],
+        "alpha2Code": "AL",
+        "alpha3Code": "ALB",
+        "callingCodes": [
+            "355"
+        ],
+        "capital": "Tirana",
+        "altSpellings": [
+            "AL",
+            "Shqipëri",
+            "Shqipëria",
+            "Shqipnia"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 2837743,
+        "latlng": [
+            41.0,
+            20.0
+        ],
+        "demonym": "Albanian",
+        "area": 28748.0,
+        "gini": 33.2,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "MNE",
+            "GRC",
+            "MKD",
+            "UNK"
+        ],
+        "nativeName": "Shqipëria",
+        "numericCode": "008",
+        "flags": {
+            "svg": "https://flagcdn.com/al.svg",
+            "png": "https://flagcdn.com/w320/al.png"
+        },
+        "currencies": [
+            {
+                "code": "ALL",
+                "name": "Albanian lek",
+                "symbol": "L"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "sq",
+                "iso639_2": "sqi",
+                "name": "Albanian",
+                "nativeName": "Shqip"
+            }
+        ],
+        "translations": {
+            "br": "Albania",
+            "pt": "Albânia",
+            "nl": "Albanië",
+            "hr": "Albanija",
+            "fa": "آلبانی",
+            "de": "Albanien",
+            "es": "Albania",
+            "fr": "Albanie",
+            "ja": "アルバニア",
+            "it": "Albania",
+            "hu": "Albánia"
+        },
+        "flag": "https://flagcdn.com/al.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "ALB",
+        "independent": true
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "topLevelDomain": [
+            ".ba"
+        ],
+        "alpha2Code": "BA",
+        "alpha3Code": "BIH",
+        "callingCodes": [
+            "387"
+        ],
+        "capital": "Sarajevo",
+        "altSpellings": [
+            "BA",
+            "Bosnia-Herzegovina",
+            "Босна и Херцеговина"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 3280815,
+        "latlng": [
+            44.0,
+            18.0
+        ],
+        "demonym": "Bosnian, Herzegovinian",
+        "area": 51209.0,
+        "gini": 33.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "HRV",
+            "MNE",
+            "SRB"
+        ],
+        "nativeName": "Bosna i Hercegovina",
+        "numericCode": "070",
+        "flags": {
+            "svg": "https://flagcdn.com/ba.svg",
+            "png": "https://flagcdn.com/w320/ba.png"
+        },
+        "currencies": [
+            {
+                "code": "BAM",
+                "name": "Bosnia and Herzegovina convertible mark",
+                "symbol": "KM"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "bs",
+                "iso639_2": "bos",
+                "name": "Bosnian",
+                "nativeName": "bosanski jezik"
+            },
+            {
+                "iso639_1": "hr",
+                "iso639_2": "hrv",
+                "name": "Croatian",
+                "nativeName": "hrvatski jezik"
+            },
+            {
+                "iso639_1": "sr",
+                "iso639_2": "srp",
+                "name": "Serbian",
+                "nativeName": "српски језик"
+            }
+        ],
+        "translations": {
+            "br": "Bosnia-ha-Herzegovina",
+            "pt": "Bósnia e Herzegovina",
+            "nl": "Bosnië en Herzegovina",
+            "hr": "Bosna i Hercegovina",
+            "fa": "بوسنی و هرزگوین",
+            "de": "Bosnien und Herzegowina",
+            "es": "Bosnia y Herzegovina",
+            "fr": "Bosnie-Herzégovine",
+            "ja": "ボスニア・ヘルツェゴビナ",
+            "it": "Bosnia ed Erzegovina",
+            "hu": "Bosznia-Hercegovina"
+        },
+        "flag": "https://flagcdn.com/ba.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "BIH",
+        "independent": true
+    },
+    {
+        "name": "North Macedonia",
+        "topLevelDomain": [
+            ".mk"
+        ],
+        "alpha2Code": "MK",
+        "alpha3Code": "MKD",
+        "callingCodes": [
+            "389"
+        ],
+        "capital": "Skopje",
+        "altSpellings": [
+            "MK",
+            "Republic of Macedonia",
+            "Република Македонија"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 2083380,
+        "latlng": [
+            41.83333333,
+            22.0
+        ],
+        "demonym": "Macedonian",
+        "area": 25713.0,
+        "gini": 33.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ALB",
+            "BGR",
+            "GRC",
+            "UNK",
+            "SRB"
+        ],
+        "nativeName": "Македонија",
+        "numericCode": "807",
+        "flags": {
+            "svg": "https://flagcdn.com/mk.svg",
+            "png": "https://flagcdn.com/w320/mk.png"
+        },
+        "currencies": [
+            {
+                "code": "MKD",
+                "name": "Macedonian denar",
+                "symbol": "ден"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "mk",
+                "iso639_2": "mkd",
+                "name": "Macedonian",
+                "nativeName": "македонски јазик"
+            }
+        ],
+        "translations": {
+            "br": "Makedonia an Norzh",
+            "pt": "Macedónia",
+            "nl": "Macedonië",
+            "hr": "Makedonija",
+            "de": "Mazedonien",
+            "es": "Macedonia",
+            "fr": "Macédoine",
+            "ja": "マケドニア旧ユーゴスラビア共和国",
+            "it": "Macedonia",
+            "hu": "Macedónia"
+        },
+        "flag": "https://flagcdn.com/mk.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "MKD",
+        "independent": true
+    },
+    {
+        "name": "Moldova (Republic of)",
+        "topLevelDomain": [
+            ".md"
+        ],
+        "alpha2Code": "MD",
+        "alpha3Code": "MDA",
+        "callingCodes": [
+            "373"
+        ],
+        "capital": "Chișinău",
+        "altSpellings": [
+            "MD",
+            "Republic of Moldova",
+            "Republica Moldova"
+        ],
+        "subregion": "Eastern Europe",
+        "region": "Europe",
+        "population": 2617820,
+        "latlng": [
+            47.0,
+            29.0
+        ],
+        "demonym": "Moldovan",
+        "area": 33846.0,
+        "gini": 25.7,
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "borders": [
+            "ROU",
+            "UKR"
+        ],
+        "nativeName": "Moldova",
+        "numericCode": "498",
+        "flags": {
+            "svg": "https://flagcdn.com/md.svg",
+            "png": "https://flagcdn.com/w320/md.png"
+        },
+        "currencies": [
+            {
+                "code": "MDL",
+                "name": "Moldovan leu",
+                "symbol": "L"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "ro",
+                "iso639_2": "ron",
+                "name": "Romanian",
+                "nativeName": "Română"
+            }
+        ],
+        "translations": {
+            "br": "Moldova",
+            "pt": "Moldávia",
+            "nl": "Moldavië",
+            "hr": "Moldova",
+            "fa": "مولداوی",
+            "de": "Moldawie",
+            "es": "Moldavia",
+            "fr": "Moldavie",
+            "ja": "モルドバ共和国",
+            "it": "Moldavia",
+            "hu": "Moldova"
+        },
+        "flag": "https://flagcdn.com/md.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "MDA",
+        "independent": true
+    },
+    {
+        "name": "Montenegro",
+        "topLevelDomain": [
+            ".me"
+        ],
+        "alpha2Code": "ME",
+        "alpha3Code": "MNE",
+        "callingCodes": [
+            "382"
+        ],
+        "capital": "Podgorica",
+        "altSpellings": [
+            "ME",
+            "Crna Gora"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 621718,
+        "latlng": [
+            42.5,
+            19.3
+        ],
+        "demonym": "Montenegrin",
+        "area": 13812.0,
+        "gini": 38.5,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ALB",
+            "BIH",
+            "HRV",
+            "UNK",
+            "SRB"
+        ],
+        "nativeName": "Црна Гора",
+        "numericCode": "499",
+        "flags": {
+            "svg": "https://flagcdn.com/me.svg",
+            "png": "https://flagcdn.com/w320/me.png"
+        },
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "sr",
+                "iso639_2": "srp",
+                "name": "Serbian",
+                "nativeName": "српски језик"
+            },
+            {
+                "iso639_1": "bs",
+                "iso639_2": "bos",
+                "name": "Bosnian",
+                "nativeName": "bosanski jezik"
+            },
+            {
+                "iso639_1": "sq",
+                "iso639_2": "sqi",
+                "name": "Albanian",
+                "nativeName": "Shqip"
+            },
+            {
+                "iso639_1": "hr",
+                "iso639_2": "hrv",
+                "name": "Croatian",
+                "nativeName": "hrvatski jezik"
+            }
+        ],
+        "translations": {
+            "br": "Montenegro",
+            "pt": "Montenegro",
+            "nl": "Montenegro",
+            "hr": "Crna Gora",
+            "fa": "مونته‌نگرو",
+            "de": "Montenegro",
+            "es": "Montenegro",
+            "fr": "Monténégro",
+            "ja": "モンテネグロ",
+            "it": "Montenegro",
+            "hu": "Montenegró"
+        },
+        "flag": "https://flagcdn.com/me.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "MNE",
+        "independent": true
+    },
+    {
+        "name": "Republic of Kosovo",
+        "topLevelDomain": [
+            ""
+        ],
+        "alpha2Code": "XK",
+        "alpha3Code": "UNK",
+        "callingCodes": [
+            "383"
+        ],
+        "capital": "Pristina",
+        "altSpellings": [
+            "XK",
+            "Република Косово"
+        ],
+        "subregion": "Eastern Europe",
+        "region": "Europe",
+        "population": 1775378,
+        "latlng": [
+            42.666667,
+            21.166667
+        ],
+        "demonym": "Kosovar",
+        "area": 10908.0,
+        "gini": 29.0,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "ALB",
+            "MKD",
+            "MNE",
+            "SRB"
+        ],
+        "nativeName": "Republika e Kosovës",
+        "numericCode": "926",
+        "flags": {
+            "svg": "https://flagcdn.com/xk.svg",
+            "png": "https://flagcdn.com/w320/xk.png"
+        },
+        "currencies": [
+            {
+                "code": "EUR",
+                "name": "Euro",
+                "symbol": "€"
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "sq",
+                "iso639_2": "sqi",
+                "name": "Albanian",
+                "nativeName": "Shqip"
+            },
+            {
+                "iso639_1": "sr",
+                "iso639_2": "srp",
+                "name": "Serbian",
+                "nativeName": "српски језик"
+            }
+        ],
+        "translations": {
+            "br": "Kosovo",
+            "pt": "Kosovo",
+            "nl": "Republiek van Kosovo",
+            "hr": "Kosovo",
+            "fa": "کوزوو",
+            "de": "Republic of Kosovo",
+            "es": "Kosovo",
+            "fr": "Kosovo",
+            "ja": "Republic of Kosovo",
+            "it": "Republic of Kosovo",
+            "hu": "Koszovó"
+        },
+        "flag": "https://flagcdn.com/xk.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "independent": true
+    },
+    {
+        "name": "Serbia",
+        "topLevelDomain": [
+            ".rs"
+        ],
+        "alpha2Code": "RS",
+        "alpha3Code": "SRB",
+        "callingCodes": [
+            "381"
+        ],
+        "capital": "Belgrade",
+        "altSpellings": [
+            "RS",
+            "Srbija",
+            "Republic of Serbia",
+            "Република Србија",
+            "Republika Srbija"
+        ],
+        "subregion": "Southern Europe",
+        "region": "Europe",
+        "population": 6908224,
+        "latlng": [
+            44.0,
+            21.0
+        ],
+        "demonym": "Serbian",
+        "area": 88361.0,
+        "gini": 36.2,
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "borders": [
+            "BIH",
+            "BGR",
+            "HRV",
+            "HUN",
+            "UNK",
+            "MKD",
+            "MNE",
+            "ROU"
+        ],
+        "nativeName": "Србија",
+        "numericCode": "688",
+        "flags": {
+            "svg": "https://flagcdn.com/rs.svg",
+            "png": "https://flagcdn.com/w320/rs.png"
+        },
+        "currencies": [
+            {
+                "code": "RSD",
+                "name": "Serbian dinar",
+                "symbol": "дин."
+            }
+        ],
+        "languages": [
+            {
+                "iso639_1": "sr",
+                "iso639_2": "srp",
+                "name": "Serbian",
+                "nativeName": "српски језик"
+            }
+        ],
+        "translations": {
+            "br": "Serbia",
+            "pt": "Sérvia",
+            "nl": "Servië",
+            "hr": "Srbija",
+            "fa": "صربستان",
+            "de": "Serbien",
+            "es": "Serbia",
+            "fr": "Serbie",
+            "ja": "セルビア",
+            "it": "Serbia",
+            "hu": "Szerbia"
+        },
+        "flag": "https://flagcdn.com/rs.svg",
+        "regionalBlocs": [
+            {
+                "acronym": "CEFTA",
+                "name": "Central European Free Trade Agreement"
+            }
+        ],
+        "cioc": "SRB",
+        "independent": true
+    }
+]
